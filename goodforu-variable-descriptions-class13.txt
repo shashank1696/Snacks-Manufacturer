@@ -1,121 +1,62 @@
 Variable
-X1 Snacks made by Snacks manufacturer: Are made with farm grown ingredients like potato, corn or wheat?
-2 Brand A chips: Are made with farm grown ingredients like potato, corn or wheat?
-3Brand B chips: Are made with farm grown ingredients like potato, corn or wheat?
-4Brand C chips: Are made with farm grown ingredients like potato, corn or wheat?
- 5Brand D puffs: Are made with farm grown ingredients like potato, corn or wheat?
-6Brand E chips: Are made with farm grown ingredients like potato, corn or wheat?
-7Brand F chips: Are made with farm grown ingredients like potato, corn or wheat?
-8Snacks made by Snacks manufacturer: Have zero grams trans fat
-9Brand A chips: Have zero grams trans fat
-Brand B chips: Have zero grams trans fat
-Brand C chips: Have zero grams trans fat
-Brand D puffs: Have zero grams trans fat
-Brand E chips: Have zero grams trans fat
-Brand F chips: Have zero grams trans fat
-Snacks made by Snacks manufacturer: Are made with natural oils
-Brand A chips: Are made with natural oils
-Brand B chips: Are made with natural oils
-Brand C chips: Are made with natural oils
-Brand D puffs: Are made with natural oils
-Brand E chips: Are made with natural oils
-Brand F chips: Are made with natural oils
-Snacks made by Snacks manufacturer : Rate the following 10=good for you, 1=bad for you
-Brand A chips : Rate the following 10=good for you, 1=bad for you
-Brand B chips : Rate the following 10=good for you, 1=bad for you
-Brand C chips : Rate the following 10=good for you, 1=bad for you
-Brand D puffs : Rate the following 10=good for you, 1=bad for you
-Brand E chips : Rate the following 10=good for you, 1=bad for you
-Brand F chips : Rate the following 10=good for you, 1=bad for you
-Snacks made by Snacks manufacturer : 10=minimallyProcessed / 1=Heavily processed on a 10 point scale
-Brand A chips : 10=minimallyProcessed / 1=Heavily processed on a 10 point scale
-Brand B chips : 10=minimallyProcessed / 1=Heavily processed on a 10 point scale
-Brand C chips : 10=minimallyProcessed / 1=Heavily processed on a 10 point scale
-Brand D puffs : 10=minimallyProcessed / 1=Heavily processed on a 10 point scale
-Brand E chips : 10=minimallyProcessed / 1=Heavily processed on a 10 point scale
-Brand F chips : 10=minimallyProcessed / 1=Heavily processed on a 10 point scale
-Manufacturer A: 10 = Extremely Environmentally responsible / 1=Not at all environmentally responsible
-Manufacturer B: 10 = Extremely Environmentally responsible / 1=Not at all environmentally responsible
-Manufacturer C: 10 = Extremely Environmentally responsible / 1=Not at all environmentally responsible
-Brand : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
-Nutritional Consideration  : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
-Calories : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
-Type : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
-Size : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
-Premium Quality : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
-Flavor : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
-Price : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
-tried and True : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
-Promotion : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
-Experiment : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
-Recommendation : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
-Health : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
-Taste : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
-Variety : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
-Preperation : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
-Packaging : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
-DispBrand B : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
-Bonus Offer : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
-Store Circular : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
-Saw/Heard a TV, Newspaper or Radio Ad : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
-Saw a sign on the shelf advertising the item at reduced price : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
+X1  Snacks made by Snacks manufacturer: Are made with farm grown ingredients like potato, corn or wheat?
+X2  Brand A chips: Are made with farm grown ingredients like potato, corn or wheat?
+X3  Brand B chips: Are made with farm grown ingredients like potato, corn or wheat?
+X4  Brand C chips: Are made with farm grown ingredients like potato, corn or wheat?
+X5  Brand D puffs: Are made with farm grown ingredients like potato, corn or wheat?
+X6  Brand E chips: Are made with farm grown ingredients like potato, corn or wheat?
+X7  Brand F chips: Are made with farm grown ingredients like potato, corn or wheat?
+X8  Snacks made by Snacks manufacturer: Have zero grams trans fat
+X9  Brand A chips: Have zero grams trans fat
+X10 Brand B chips: Have zero grams trans fat
+X11 Brand C chips: Have zero grams trans fat
+X12 Brand D puffs: Have zero grams trans fat
+X13 Brand E chips: Have zero grams trans fat
+X14 Brand F chips: Have zero grams trans fat
+X15 Snacks made by Snacks manufacturer: Are made with natural oils
+X16 Brand A chips: Are made with natural oils
+X17 Brand B chips: Are made with natural oils
+X18 Brand C chips: Are made with natural oils
+X19 Brand D puffs: Are made with natural oils
+X20 Brand E chips: Are made with natural oils
+X21 Brand F chips: Are made with natural oils
+X22 Snacks made by Snacks manufacturer : Rate the following 10=good for you, 1=bad for you
+X23 Brand A chips : Rate the following 10=good for you, 1=bad for you
+X24 Brand B chips : Rate the following 10=good for you, 1=bad for you
+X25 Brand C chips : Rate the following 10=good for you, 1=bad for you
+X26 Brand D puffs : Rate the following 10=good for you, 1=bad for you
+X27 Brand E chips : Rate the following 10=good for you, 1=bad for you
+X28 Brand F chips : Rate the following 10=good for you, 1=bad for you
+X29 Snacks made by Snacks manufacturer : 10=minimallyProcessed / 1=Heavily processed on a 10 point scale
+X30 Brand A chips : 10=minimallyProcessed / 1=Heavily processed on a 10 point scale
+X31 Brand B chips : 10=minimallyProcessed / 1=Heavily processed on a 10 point scale
+X32 Brand C chips : 10=minimallyProcessed / 1=Heavily processed on a 10 point scale
+X33 Brand D puffs : 10=minimallyProcessed / 1=Heavily processed on a 10 point scale
+X34 Brand E chips : 10=minimallyProcessed / 1=Heavily processed on a 10 point scale
+X35 Brand F chips : 10=minimallyProcessed / 1=Heavily processed on a 10 point scale
+X36 Manufacturer A: 10 = Extremely Environmentally responsible / 1=Not at all environmentally responsible
+X37 Manufacturer B: 10 = Extremely Environmentally responsible / 1=Not at all environmentally responsible
+X38 Manufacturer C: 10 = Extremely Environmentally responsible / 1=Not at all environmentally responsible
+X39 Brand : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
+X40 Nutritional Consideration  : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
+X41 Calories : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
+X42 Type : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
+X43 Size : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
+X44 Premium Quality : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
+X45 Flavor : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
+X46 Price : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
+X47 tried and True : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
+X48 Promotion : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
+X49 Experiment : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
+X50 Recommendation : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
+X51 Health : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
+X52 Taste : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
+X53 Variety : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
+X54 Preperation : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
+X55 Packaging : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
+X56 DispBrand B : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
+X57 Bonus Offer : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
+X58 Store Circular : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
+X59,X60,X61 Saw/Heard a TV, Newspaper or Radio Ad : Factors in purchase decision / 5=Extremely Important and 1 = Not at all     Important
+X62 Saw a sign on the shelf advertising the item at reduced price : Factors in purchase decision / 5=Extremely Important and     1 = Not at all Important
 
-X2
-X3
-X4
-X5
-X6
-X7
-X8
-X9
-X10
-X11
-X12
-X13
-X14
-X15
-X16
-X17
-X18
-X19
-X20
-X21
-X22
-X23
-X24
-X25
-X26
-X27
-X28
-X29
-X30
-X31
-X34
-X35
-X36
-X37
-X38
-X39
-X40
-X41
-X42
-X43
-X44
-X45
-X46
-X47
-X48
-X49
-X50
-X51
-X52
-X53
-X54
-X55
-X56
-X57
-X58
-X59
-X60
-X61
-X62

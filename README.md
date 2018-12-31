@@ -2,10 +2,10 @@
 Prescribing a Brand to the customers after considering if the product is” good for them “or not using Logistic Regression Algorithm
 
 ## Attributes
-X1  Snacks made by Snacks manufacturer: Are made with farm grown ingredients like potato, corn or wheat?
-X2  Brand A chips: Are made with farm grown ingredients like potato, corn or wheat?
-X3  Brand B chips: Are made with farm grown ingredients like potato, corn or wheat?
-X4  Brand C chips: Are made with farm grown ingredients like potato, corn or wheat?
+#### X1  Snacks made by Snacks manufacturer: Are made with farm grown ingredients like potato, corn or wheat?
+#### X2  Brand A chips: Are made with farm grown ingredients like potato, corn or wheat?
+#### X3  Brand B chips: Are made with farm grown ingredients like potato, corn or wheat?
+#### X4  Brand C chips: Are made with farm grown ingredients like potato, corn or wheat?
 X5  Brand D puffs: Are made with farm grown ingredients like potato, corn or wheat?
 X6  Brand E chips: Are made with farm grown ingredients like potato, corn or wheat?
 X7  Brand F chips: Are made with farm grown ingredients like potato, corn or wheat?

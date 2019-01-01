@@ -64,3 +64,14 @@ Prescribing a Brand to the customers after considering if the product is” good
 ##### X60, X61 Saw/Heard a TV, Newspaper or Radio Ad : Factors in purchase decision / 5=Extremely Important and 1 = Not at all     Important
 ##### X62 Saw a sign on the shelf advertising the item at reduced price : Factors in purchase decision / 5=Extremely Important and     1 = Not at all Important
 
+## RECOMMENDATION FOR BRAND A COMPANY CAN BE:
+1) Brand A chips that are made by farm grown ingredient like potato, corn or wheat and have zero grams trans fat and also that are made    up with natural oils brings loss to the company according to the summary of the model built. .
+2) Brand B chips that are minimally processed or heavily processed can also be a loss to the company according to the summary of the        model built.
+3) Calories, a factor from the purchase decision can also let the company in loss.
+4) Brand A chips that are minimally processed or heavily processed can also let the company to gain the profits according to the summary    of the model built.
+5) Manufacturer A & C are environmentally responsible can improve the profits in the company. 
+6)Brand, Type, Variety places an important role in improving the profits in the company according the model that is built.
+7) Saw / heard a TV, Newspaper, Radio Ad factor helped in purchase decision and let the company to improve the profits in the company.
+8)The accuracy obtained from the model that is built is 78.58% 
+
+

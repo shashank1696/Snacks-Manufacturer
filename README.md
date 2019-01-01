@@ -1,8 +1,8 @@
 # Snacks-Manufacturer
 Prescribing a Brand to the customers after considering if the product is” good for them “or not using Logistic Regression Algorithm
 ## Problem Statment:
-##### ~The data set that has been collected is a part of a survey exercise done by a leading snacks manufacturer.
-##### ~The snacks manufacturer produces 6 different brands. The actual brand names have been masked and are present in the dataset as          Brand A, Brand B, Brand C, Brand D, Brand E and Brand F. There is also a data dictionary named GoodForUVar Desc.xlsx. This              manufacturer is     interested in finding out what factors affect the perception for Brand A. 
+##### The data set that has been collected is a part of a survey exercise done by a leading snacks manufacturer.
+##### The snacks manufacturer produces 6 different brands. The actual brand names have been masked and are present in the dataset as          Brand A, Brand B, Brand C, Brand D, Brand E and Brand F. There is also a data dictionary named GoodForUVar Desc.xlsx. This              manufacturer is interested in finding out what factors affect the perception for Brand A. 
 
 ## Attributes
 ##### X1  Snacks made by Snacks manufacturer: Are made with farm grown ingredients like potato, corn or wheat?

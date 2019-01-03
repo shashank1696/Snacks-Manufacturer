@@ -1,8 +1,8 @@
 # Snacks-Manufacturer
 Prescribing a Brand to the customers after considering if the product is” good for them “or not using Logistic Regression Algorithm
 ## Problem Statment:
-##### The data set that has been collected is a part of a survey exercise done by a leading snacks manufacturer.
-##### The snacks manufacturer produces 6 different brands. The actual brand names have been masked and are present in the dataset as            Brand A, Brand B, Brand C, Brand D, Brand E and Brand F. There is also a data dictionary named GoodForUVar Desc.xlsx. This              manufacturer is interested in finding out what factors affect the perception for Brand A. 
+- The data set that has been collected is a part of a survey exercise done by a leading snacks manufacturer.
+- The snacks manufacturer produces 6 different brands. The actual brand names have been masked and are present in the dataset as            Brand A, Brand B, Brand C, Brand D, Brand E and Brand F. There is also a data dictionary named GoodForUVar Desc.xlsx. This              manufacturer is interested in finding out what factors affect the perception for Brand A. 
 
 ## Attributes
 ##### X1  Snacks made by Snacks manufacturer: Are made with farm grown ingredients like potato, corn or wheat?
@@ -73,8 +73,8 @@ Prescribing a Brand to the customers after considering if the product is” good
 3) Calories, a factor from the purchase decision can also let the company in loss.
 4) Brand A chips that are minimally processed or heavily processed can also let the company to gain the profits according to the summary    of the model built.
 5) Manufacturer A & C are environmentally responsible can improve the profits in the company. 
-6)Brand, Type, Variety places an important role in improving the profits in the company according the model that is built.
+6) Brand, Type, Variety places an important role in improving the profits in the company according the model that is built.
 7) Saw / heard a TV, Newspaper, Radio Ad factor helped in purchase decision and let the company to improve the profits in the company.
-8)The accuracy obtained from the model that is built is 78.58% 
+8) The accuracy obtained from the model that is built is 78.58% 
 
 

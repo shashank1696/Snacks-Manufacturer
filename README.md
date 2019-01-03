@@ -1,5 +1,6 @@
 # Snacks-Manufacturer
-Prescribing a Brand to the customers after considering if the product is” good for them “or not using Logistic Regression Algorithm
+Prescribing a Brand to the customers after considering if the product is “good for them” or not using Logistic Regression Algorithm.
+
 ## Problem Statment:
 - The data set that has been collected is a part of a survey exercise done by a leading snacks manufacturer.
 - The snacks manufacturer produces 6 different brands. The actual brand names have been masked and are present in the dataset as            Brand A, Brand B, Brand C, Brand D, Brand E and Brand F. There is also a data dictionary named GoodForUVar Desc.xlsx. This              manufacturer is interested in finding out what factors affect the perception for Brand A. 
@@ -64,8 +65,8 @@ Prescribing a Brand to the customers after considering if the product is” good
 ##### X57 DispBrand B : Factors in purchase decision / 5=Extremely Important and 1 = Not at all ##### Important
 ##### X58 Bonus Offer : Factors in purchase decision / 5=Extremely Important and 1 = Not at all#####  Important
 ##### X59 Store Circular : Factors in purchase decision / 5=Extremely Important and 1 = Not at all Important
-##### X60, X61 Saw/Heard a TV, Newspaper or Radio Ad : Factors in purchase decision / 5=Extremely Important and 1 = Not at all     Important
-##### X62 Saw a sign on the shelf advertising the item at reduced price : Factors in purchase decision / 5=Extremely Important and     1 = Not at all Important
+##### X60, X61 Saw/Heard a TV, Newspaper or Radio Ad : Factors in purchase decision / 5=Extremely Important and 1 = Not at all                 Important
+##### X62 Saw a sign on the shelf advertising the item at reduced price : Factors in purchase decision / 5=Extremely Important and     1       = Not at all Important
 
 ## RECOMMENDATION FOR BRAND A COMPANY CAN BE:
 1) Brand A chips that are made by farm grown ingredient like potato, corn or wheat and have zero grams trans fat and also that are made    up with natural oils brings loss to the company according to the summary of the model built. .

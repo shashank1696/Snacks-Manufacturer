@@ -74,9 +74,11 @@ Prescribing a Brand to the customers after considering if the product is “good
 3) caret
 4) e1071
 5) lmtest
+6) lattice
+7) gains
 
 ## Steps :
-1) Data loading and data cleaning
+1) Data loading and Data cleaning
 2) Data exploration
 3) Data analysis
 4) Data Prediction

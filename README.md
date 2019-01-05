@@ -68,6 +68,19 @@ Prescribing a Brand to the customers after considering if the product is “good
 ##### X60, X61 Saw/Heard a TV, Newspaper or Radio Ad : Factors in purchase decision / 5=Extremely Important and 1 = Not at all                 Important
 ##### X62 Saw a sign on the shelf advertising the item at reduced price : Factors in purchase decision / 5=Extremely Important and     1       = Not at all Important
 
+## Packages required in R
+1) dplyr
+2) ggplot2
+3) caret
+4) e1071
+5) lmtest
+
+## Steps :
+1) Data loading and data cleaning
+2) Data exploration
+3) Data analysis
+4) Data Prediction
+
 ## RECOMMENDATION FOR BRAND A COMPANY CAN BE:
 1) Brand A chips that are made by farm grown ingredient like potato, corn or wheat and have zero grams trans fat and also that are made    up with natural oils brings loss to the company according to the summary of the model built. .
 2) Brand B chips that are minimally processed or heavily processed can also be a loss to the company according to the summary of the        model built.
